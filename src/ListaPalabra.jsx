@@ -1,6 +1,6 @@
 
 import { useState } from 'react'
-import { AgregarPalabras } from '../componentes/AgregarPalabras'
+import { AgregarPalabras } from './componentes/AgregarPalabras'
 
 export const ListaPalabra = () => {
  
